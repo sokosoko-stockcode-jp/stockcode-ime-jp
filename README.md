@@ -1,0 +1,1 @@
+# stockcode-ime-jp
